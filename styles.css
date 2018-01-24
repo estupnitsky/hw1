@@ -1,0 +1,30 @@
+body {
+  color: black;
+  font-family: 'helvetica';
+  font-size: '20px';
+  font-weight: bold;
+}
+
+h1 {
+  font-family: 'lucida console';
+  color: maroon;
+  border-bottom: 8px solid tan;
+  padding-bottom: 6px;
+  font-weight: bold;
+}
+
+h2 {
+  font-family: 'lucida console';
+  color: maroon;
+  border-bottom: 6px solid tan;
+  padding-bottom: 6px;
+  font-weight: bold;
+}
+
+p {
+  font-weight: normal;
+}
+
+li {
+  font-weight: normal;
+}
